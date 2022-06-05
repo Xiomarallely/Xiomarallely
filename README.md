@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Xiomarallely
-- 👀 I’m interested in learning code and what it can do for me
-- 🌱 I’m currently learning marketing and digital marketing 
-- 💞️ I’m looking to collaborate on anything that can help me learn faster
+Hi, I’m @Xiomarallely
+I’m interested in learning code and what it can do for me
+🌱 I’m currently learning marketing and digital marketing. While also trying to attack coding!
+I’m looking to collaborate on anything that can help me learn faster
 - 📫 How to reach me msg me @ xiomarallely@outlook.com
 
 <!---
